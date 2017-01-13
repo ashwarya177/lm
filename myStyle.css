@@ -1,0 +1,87 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-footer { 
+    background-color: black;
+    margin: 60px 0px 0px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin-top: 60px;
+    color:black;
+    background-image:url("img/clg.jpg");
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color: #F5FFFA;
+}
+body{
+    padding-top:10px;
+    z-index:0;
+}
+.navbar{
+    margin-top:2px;
+    background: black;
+}
+
+.navbar-nav > li > a
+{
+    color: #C0C0C0;
+}
+.navbar-nav > li > a:hover
+{
+   color: #fff;
+   background-color: black;
+}
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:hover,
+.navbar-nav > .active > a:focus {
+    color: black;
+    background-color: #F5F5F5;
+}
+.navbar-nav > .open > a,
+.navbar-nav > .open > a:hover,
+.navbar-nav > .open > a:focus {
+    color: #fff;
+    background-color: black;
+}
+
+a > img{
+padding: 0px;
+}
+.form-horizontal{
+  border: 2px solid black;
+  padding: 20px;
+  margin-top: 60px;
+  background-color: #F5F5F5;
+}
+.navbar-nav .dropdown-menu> li> a,
+.navbar-nav .dropdown-menu {
+    background-color: black;
+    color:#C0C0C0;
+}
+.navbar-nav .dropdown> a:visited {
+    background-color: black;
+    color:#C0C0C0;
+}
+.navbar-nav .dropdown> a:hover {
+    background-color: black;
+    color:#fff;
+}
+.navbar-nav .open .dropdown-menu> li> a:hover {
+    color: black;
+    background-color: #F5F5F5;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.row-content{
+  padding-top:80px;
+}
